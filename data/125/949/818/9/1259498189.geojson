@@ -1,0 +1,70 @@
+{
+  "id": 1259498189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12334,-12.83342,45.12334,-12.83342",
+    "geom:latitude":-12.83342,
+    "geom:longitude":45.12334,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Djivani",
+    "gn:country_code":"YT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090318,
+    "gn:latitude":-12.83342,
+    "gn:longitude":45.12334,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Djivani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Djivani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090318
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"9eff4f042f1a195570192e37840fc3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259498189,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1259498189,
+    "wof:lastmodified":1537716365,
+    "wof:name":"Djivani",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12334,
+    -12.83342,
+    45.12334,
+    -12.83342
+],
+  "geometry": {"coordinates":[45.12334,-12.83342],"type":"Point"}
+}

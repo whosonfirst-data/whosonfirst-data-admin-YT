@@ -1,0 +1,67 @@
+{
+  "id": 1259593399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.18119,-12.98436,45.18119,-12.98436",
+    "geom:latitude":-12.98436,
+    "geom:longitude":45.18119,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Saziley",
+    "gn:country_code":"YT",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090432,
+    "gn:latitude":-12.98436,
+    "gn:longitude":45.18119,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Saziley",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saziley"
+    ],
+    "name:und_x_variant":[
+        "Sazil\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090432
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"63a3a90a0c38a0f0b3cc817c834cdfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259593399,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259593399,
+    "wof:lastmodified":1537716365,
+    "wof:name":"Saziley",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.18119,
+    -12.98436,
+    45.18119,
+    -12.98436
+],
+  "geometry": {"coordinates":[45.18119,-12.98436],"type":"Point"}
+}

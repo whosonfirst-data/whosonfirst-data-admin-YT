@@ -1,0 +1,70 @@
+{
+  "id": 1226549963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12798,-12.78867,45.12798,-12.78867",
+    "geom:latitude":-12.78867,
+    "geom:longitude":45.12798,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mrowale",
+    "gn:country_code":"YT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090184,
+    "gn:latitude":-12.78867,
+    "gn:longitude":45.12798,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mrowal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mrowal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090184
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"fe7a500632989426c397f4d5a9f819b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226549963,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1226549963,
+    "wof:lastmodified":1537716363,
+    "wof:name":"Mrowale",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12798,
+    -12.78867,
+    45.12798,
+    -12.78867
+],
+  "geometry": {"coordinates":[45.12798,-12.78867],"type":"Point"}
+}

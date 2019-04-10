@@ -1,0 +1,71 @@
+{
+  "id": 1293310843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13083,-12.96861,45.13083,-12.96861",
+    "geom:latitude":-12.96861,
+    "geom:longitude":45.13083,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Choungui Keli",
+    "gn:country_code":"YT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090445,
+    "gn:latitude":-12.96861,
+    "gn:longitude":45.13083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Choungui K\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Choungui K\u00e9li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090445,
+        "wk:page":"Choungui_K%C3%A9li"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"6f0b25ecc3307c88137c148f815060bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293310843,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1293310843,
+    "wof:lastmodified":1537716366,
+    "wof:name":"Choungui Keli",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13083,
+    -12.96861,
+    45.13083,
+    -12.96861
+],
+  "geometry": {"coordinates":[45.13083,-12.96861],"type":"Point"}
+}

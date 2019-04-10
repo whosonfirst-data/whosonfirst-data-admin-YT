@@ -1,0 +1,64 @@
+{
+  "id": 1276243189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26443,-12.78792,45.26443,-12.78792",
+    "geom:latitude":-12.78792,
+    "geom:longitude":45.26443,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mronyombeni",
+    "gn:country_code":"YT",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090274,
+    "gn:latitude":-12.78792,
+    "gn:longitude":45.26443,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mronyomb\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mronyomb\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090274
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"be50f0710b136806e9828cf2b2f46346",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276243189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276243189,
+    "wof:lastmodified":1537716364,
+    "wof:name":"Mronyombeni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26443,
+    -12.78792,
+    45.26443,
+    -12.78792
+],
+  "geometry": {"coordinates":[45.26443,-12.78792],"type":"Point"}
+}

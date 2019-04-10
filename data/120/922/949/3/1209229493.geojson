@@ -1,0 +1,62 @@
+{
+  "id": 1209229493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13735,-12.98953,45.13735,-12.98953",
+    "geom:latitude":-12.98953,
+    "geom:longitude":45.13735,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mbouini",
+    "gn:country_code":"YT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090439,
+    "gn:latitude":-12.98953,
+    "gn:longitude":45.13735,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mbouini",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090439,
+        "wk:page":"Mbouini"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"d72c66fcebc130ec2d134cd940445651",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209229493,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1209229493,
+    "wof:lastmodified":1537576355,
+    "wof:name":"Mbouini",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13735,
+    -12.98953,
+    45.13735,
+    -12.98953
+],
+  "geometry": {"coordinates":[45.13735,-12.98953],"type":"Point"}
+}

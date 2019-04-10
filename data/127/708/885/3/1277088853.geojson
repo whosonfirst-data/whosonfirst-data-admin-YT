@@ -1,0 +1,70 @@
+{
+  "id": 1277088853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10457,-12.8473,45.10457,-12.8473",
+    "geom:latitude":-12.8473,
+    "geom:longitude":45.10457,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bandrani",
+    "gn:country_code":"YT",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090339,
+    "gn:latitude":-12.8473,
+    "gn:longitude":45.10457,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Bandrani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bandrani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090339
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"749e051b3985762ea18def924696d422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1277088853,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1277088853,
+    "wof:lastmodified":1537716365,
+    "wof:name":"Bandrani",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10457,
+    -12.8473,
+    45.10457,
+    -12.8473
+],
+  "geometry": {"coordinates":[45.10457,-12.8473],"type":"Point"}
+}

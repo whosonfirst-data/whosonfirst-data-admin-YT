@@ -1,0 +1,65 @@
+{
+  "id": 1242595929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21494,-12.8813,45.21494,-12.8813",
+    "geom:latitude":-12.8813,
+    "geom:longitude":45.21494,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hamouro",
+    "gn:country_code":"YT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090387,
+    "gn:latitude":-12.8813,
+    "gn:longitude":45.21494,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Hamouro",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090387,
+        "wk:page":"Hamouro"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"ec207ec4ce57d5fae7fa2b43e7542e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242595929,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242595929,
+    "wof:lastmodified":1537716365,
+    "wof:name":"Hamouro",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21494000000001,
+    -12.8813,
+    45.21494000000001,
+    -12.8813
+],
+  "geometry": {"coordinates":[45.21494000000001,-12.8813],"type":"Point"}
+}

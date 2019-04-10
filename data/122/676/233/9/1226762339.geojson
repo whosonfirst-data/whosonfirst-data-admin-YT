@@ -1,0 +1,64 @@
+{
+  "id": 1226762339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10036,-12.85489,45.10036,-12.85489",
+    "geom:latitude":-12.85489,
+    "geom:longitude":45.10036,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Komojou",
+    "gn:country_code":"YT",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631752,
+    "gn:latitude":-12.85489,
+    "gn:longitude":45.10036,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Komojou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Komojou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631752
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"22072ba9d8f98793eba2e4deefa0ce53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226762339,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226762339,
+    "wof:lastmodified":1537716366,
+    "wof:name":"Komojou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10036,
+    -12.85489,
+    45.10036,
+    -12.85489
+],
+  "geometry": {"coordinates":[45.10036,-12.85489],"type":"Point"}
+}

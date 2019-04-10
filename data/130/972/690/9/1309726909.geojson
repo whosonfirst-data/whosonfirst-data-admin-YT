@@ -1,0 +1,74 @@
+{
+  "id": 1309726909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.17449,-12.96232,45.17449,-12.96232",
+    "geom:latitude":-12.96232,
+    "geom:longitude":45.17449,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mtsamoudou",
+    "gn:country_code":"YT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090425,
+    "gn:latitude":-12.96232,
+    "gn:longitude":45.17449,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mtsamoudou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mtsamoudou"
+    ],
+    "name:und_x_variant":[
+        "Moutsamoudou",
+        "M\u2019Samoudou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090425
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"22e854d17bcae088b89db8d564774d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1309726909,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1309726909,
+    "wof:lastmodified":1537716365,
+    "wof:name":"Mtsamoudou",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.17449000000001,
+    -12.96232,
+    45.17449000000001,
+    -12.96232
+],
+  "geometry": {"coordinates":[45.17449000000001,-12.96232],"type":"Point"}
+}

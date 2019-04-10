@@ -1,0 +1,71 @@
+{
+  "id": 1310120585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19861,-12.73437,45.19861,-12.73437",
+    "geom:latitude":-12.73437,
+    "geom:longitude":45.19861,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Trevani",
+    "gn:country_code":"YT",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090223,
+    "gn:latitude":-12.73437,
+    "gn:longitude":45.19861,
+    "gn:modification_date":"2012-02-07",
+    "gn:name":"Tr\u00e9vani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u00e9vani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090223,
+        "wk:page":"Tr%C3%A9vani"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"4e3cc5af362d6e50f5c86772d7fc8238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310120585,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1310120585,
+    "wof:lastmodified":1537716364,
+    "wof:name":"Trevani",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19861,
+    -12.73437,
+    45.19861,
+    -12.73437
+],
+  "geometry": {"coordinates":[45.19861,-12.73437],"type":"Point"}
+}

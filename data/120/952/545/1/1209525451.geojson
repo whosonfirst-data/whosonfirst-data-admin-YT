@@ -1,0 +1,61 @@
+{
+  "id": 1209525451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1,-12.91667,45.1,-12.91667",
+    "geom:latitude":-12.91667,
+    "geom:longitude":45.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Boeni",
+    "gn:country_code":"YT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921963,
+    "gn:latitude":-12.91667,
+    "gn:longitude":45.1,
+    "gn:modification_date":"2012-01-11",
+    "gn:name":"Boeni",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921963
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"e1c9a6fbdfb0bd69f59302a9f1a95df3",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209525451,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1209525451,
+    "wof:lastmodified":1536284445,
+    "wof:name":"Boeni",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1,
+    -12.91667,
+    45.1,
+    -12.91667
+],
+  "geometry": {"coordinates":[45.1,-12.91667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293218609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1,-12.95,45.1,-12.95",
+    "geom:latitude":-12.95,
+    "geom:longitude":45.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kani Kele",
+    "gn:country_code":"YT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921842,
+    "gn:latitude":-12.95,
+    "gn:longitude":45.1,
+    "gn:modification_date":"2012-01-11",
+    "gn:name":"Kani Kele",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cani",
+        "Cani-Kely",
+        "Kani Kele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921842
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"70310341fda7bc20c9bbf357595a7f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293218609,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1293218609,
+    "wof:lastmodified":1537716363,
+    "wof:name":"Kani Kele",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1,
+    -12.95,
+    45.1,
+    -12.95
+],
+  "geometry": {"coordinates":[45.1,-12.95],"type":"Point"}
+}

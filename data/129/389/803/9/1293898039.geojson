@@ -1,0 +1,70 @@
+{
+  "id": 1293898039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.19981,-12.87242,45.19981,-12.87242",
+    "geom:latitude":-12.87242,
+    "geom:longitude":45.19981,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maboungani",
+    "gn:country_code":"YT",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090362,
+    "gn:latitude":-12.87242,
+    "gn:longitude":45.19981,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Maboungani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Maboungani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090362
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"1f8d5f3cc4979fde276a7ffb8299efdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293898039,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1293898039,
+    "wof:lastmodified":1537716365,
+    "wof:name":"Maboungani",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.19981,
+    -12.87242,
+    45.19981,
+    -12.87242
+],
+  "geometry": {"coordinates":[45.19981,-12.87242],"type":"Point"}
+}

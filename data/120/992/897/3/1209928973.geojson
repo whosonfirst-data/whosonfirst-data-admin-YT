@@ -1,0 +1,72 @@
+{
+  "id": 1209928973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16012,-12.83883,45.16012,-12.83883",
+    "geom:latitude":-12.83883,
+    "geom:longitude":45.16012,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ongojou",
+    "gn:country_code":"YT",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090308,
+    "gn:latitude":-12.83883,
+    "gn:longitude":45.16012,
+    "gn:modification_date":"2016-07-18",
+    "gn:name":"Ongojou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angouzou",
+        "Ongoujou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090308,
+        "wk:page":"Ongojou"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"88224c2edd91b38eb2159759ac4001ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209928973,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1209928973,
+    "wof:lastmodified":1537716364,
+    "wof:name":"Ongojou",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16012,
+    -12.83883,
+    45.16012,
+    -12.83883
+],
+  "geometry": {"coordinates":[45.16012,-12.83883],"type":"Point"}
+}

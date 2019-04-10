@@ -1,0 +1,68 @@
+{
+  "id": 1226074211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.28234,-12.77698,45.28234,-12.77698",
+    "geom:latitude":-12.77698,
+    "geom:longitude":45.28234,
+    "gn:admin1_code":"97608.0",
+    "gn:asciiname":"Labattoir",
+    "gn:country_code":"YT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090275,
+    "gn:latitude":-12.77698,
+    "gn:longitude":45.28234,
+    "gn:modification_date":"2017-01-10",
+    "gn:name":"Labattoir",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090275,
+        "wk:page":"Labattoir"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"d0a34de52e5ec66194889c987f3133d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226074211,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1226074211,
+    "wof:lastmodified":1537576354,
+    "wof:name":"Labattoir",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.28234000000001,
+    -12.77698,
+    45.28234000000001,
+    -12.77698
+],
+  "geometry": {"coordinates":[45.28234000000001,-12.77698],"type":"Point"}
+}

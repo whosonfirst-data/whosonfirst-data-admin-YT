@@ -1,0 +1,67 @@
+{
+  "id": 1259397271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21667,-12.75,45.21667,-12.75",
+    "geom:latitude":-12.75,
+    "geom:longitude":45.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Trivani",
+    "gn:country_code":"YT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":921665,
+    "gn:latitude":-12.75,
+    "gn:longitude":45.21667,
+    "gn:modification_date":"2012-01-11",
+    "gn:name":"Trivani",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":921665
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"7993f5816917637ba5cf648f3a3905e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259397271,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1259397271,
+    "wof:lastmodified":1536981699,
+    "wof:name":"Trivani",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21667,
+    -12.75,
+    45.21667,
+    -12.75
+],
+  "geometry": {"coordinates":[45.21667,-12.75],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327348257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05519,-12.75056,45.05519,-12.75056",
+    "geom:latitude":-12.75056,
+    "geom:longitude":45.05519,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mliha",
+    "gn:country_code":"YT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090151,
+    "gn:latitude":-12.75056,
+    "gn:longitude":45.05519,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mliha",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moliha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090151,
+        "wk:page":"Mliha"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"2c043616fafee3ff9e6c91d4002bc028",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327348257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327348257,
+    "wof:lastmodified":1537716363,
+    "wof:name":"Mliha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05519,
+    -12.75056,
+    45.05519,
+    -12.75056
+],
+  "geometry": {"coordinates":[45.05519,-12.75056],"type":"Point"}
+}

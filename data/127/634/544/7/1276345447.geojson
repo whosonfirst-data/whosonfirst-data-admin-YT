@@ -1,0 +1,72 @@
+{
+  "id": 1276345447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05118,-12.71112,45.05118,-12.71112",
+    "geom:latitude":-12.71112,
+    "geom:longitude":45.05118,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mtsangadoua",
+    "gn:country_code":"YT",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090134,
+    "gn:latitude":-12.71112,
+    "gn:longitude":45.05118,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Mtsangadoua",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Tsangadoi",
+        "Mtsangadoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090134,
+        "wk:page":"Mtsangadoua"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"1b06d1237cc18a1fa5571051801ddb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276345447,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1276345447,
+    "wof:lastmodified":1537716363,
+    "wof:name":"Mtsangadoua",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05118,
+    -12.71112,
+    45.05118,
+    -12.71112
+],
+  "geometry": {"coordinates":[45.05118,-12.71112],"type":"Point"}
+}

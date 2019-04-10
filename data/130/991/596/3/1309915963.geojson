@@ -1,0 +1,72 @@
+{
+  "id": 1309915963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.22058,-12.74701,45.22058,-12.74701",
+    "geom:latitude":-12.74701,
+    "geom:longitude":45.22058,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Majikavo Koropa",
+    "gn:cc2":"YT",
+    "gn:country_code":"YT",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090227,
+    "gn:latitude":-12.74701,
+    "gn:longitude":45.22058,
+    "gn:modification_date":"2012-02-07",
+    "gn:name":"Majikavo Koropa",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majikavo 2",
+        "Majikavo Koropa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090227
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"9a51ecc9b5d01d1354fce921c192abb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1309915963,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1309915963,
+    "wof:lastmodified":1537716364,
+    "wof:name":"Majikavo Koropa",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.22058,
+    -12.74701,
+    45.22058,
+    -12.74701
+],
+  "geometry": {"coordinates":[45.22058,-12.74701],"type":"Point"}
+}

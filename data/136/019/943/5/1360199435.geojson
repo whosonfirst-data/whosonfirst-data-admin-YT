@@ -1,0 +1,68 @@
+{
+  "id": 1360199435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0745,-12.68832,45.0745,-12.68832",
+    "geom:latitude":-12.68832,
+    "geom:longitude":45.0745,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hamjago",
+    "gn:country_code":"YT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090123,
+    "gn:latitude":-12.68832,
+    "gn:longitude":45.0745,
+    "gn:modification_date":"2012-02-07",
+    "gn:name":"Hamjago",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090123,
+        "wk:page":"Hamjago"
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"115a87cd9750c4ec067fd2bb14b38ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360199435,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1360199435,
+    "wof:lastmodified":1537576354,
+    "wof:name":"Hamjago",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0745,
+    -12.68832,
+    45.0745,
+    -12.68832
+],
+  "geometry": {"coordinates":[45.0745,-12.68832],"type":"Point"}
+}

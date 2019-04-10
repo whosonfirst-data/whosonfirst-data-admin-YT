@@ -1,0 +1,65 @@
+{
+  "id": 1226757499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.21061,-12.80127,45.21061,-12.80127",
+    "geom:latitude":-12.80127,
+    "geom:longitude":45.21061,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Passamainti",
+    "gn:country_code":"YT",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090247,
+    "gn:latitude":-12.80127,
+    "gn:longitude":45.21061,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Passama\u00efnti",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Passama\u00efnti",
+        "Passamenti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090247
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"8700ac5c8dd5bf4c4463a1e962593202",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226757499,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226757499,
+    "wof:lastmodified":1537716364,
+    "wof:name":"Passamainti",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.21061,
+    -12.80127,
+    45.21061,
+    -12.80127
+],
+  "geometry": {"coordinates":[45.21061,-12.80127],"type":"Point"}
+}

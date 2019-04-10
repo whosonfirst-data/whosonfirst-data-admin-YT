@@ -1,0 +1,64 @@
+{
+  "id": 1260303787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.26162,-12.78651,45.26162,-12.78651",
+    "geom:latitude":-12.78651,
+    "geom:longitude":45.26162,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Foungoujou",
+    "gn:country_code":"YT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1090273,
+    "gn:latitude":-12.78651,
+    "gn:longitude":45.26162,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Foungoujou",
+    "gn:population":0,
+    "gn:timezone":"Indian/Mayotte",
+    "iso:country":"YT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Foungoujou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090273
+    },
+    "wof:country":"YT",
+    "wof:geomhash":"4afc0f7a995bcbff643e397146ed97b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260303787,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260303787,
+    "wof:lastmodified":1537716364,
+    "wof:name":"Foungoujou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-yt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.26162,
+    -12.78651,
+    45.26162,
+    -12.78651
+],
+  "geometry": {"coordinates":[45.26162,-12.78651],"type":"Point"}
+}
