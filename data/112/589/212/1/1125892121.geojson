@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Chiconi"
     ],
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0643\u0646\u064a"
+    ],
     "name:arg_x_preferred":[
         "Chiconi"
     ],
@@ -40,6 +43,9 @@
     "name:cat_x_preferred":[
         "Chiconi"
     ],
+    "name:ceb_x_preferred":[
+        "Chiconi"
+    ],
     "name:ces_x_preferred":[
         "Chiconi"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:deu_x_preferred":[
         "Chiconi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03ba\u03bf\u03bd\u03af"
     ],
     "name:eng_x_preferred":[
         "Chiconi"
@@ -301,7 +310,7 @@
         }
     ],
     "wof:id":1125892121,
-    "wof:lastmodified":1561839895,
+    "wof:lastmodified":1563365516,
     "wof:name":"Chiconi",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",
