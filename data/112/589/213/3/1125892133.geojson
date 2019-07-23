@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Bou\u00e9ni"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0646\u064a"
+    ],
     "name:arg_x_preferred":[
         "Bou\u00e9ni"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:deu_x_preferred":[
         "Bou\u00e9ni"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03b5\u03bd\u03af"
     ],
     "name:eng_x_preferred":[
         "Bou\u00e9ni"
@@ -301,7 +307,7 @@
         }
     ],
     "wof:id":1125892133,
-    "wof:lastmodified":1561839895,
+    "wof:lastmodified":1563365517,
     "wof:name":"Bou\u00e9ni",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",
