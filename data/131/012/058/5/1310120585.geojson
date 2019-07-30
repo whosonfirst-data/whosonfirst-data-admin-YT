@@ -25,6 +25,9 @@
     "iso:country":"YT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tr\u00e9vani"
+    ],
     "name:und_x_variant":[
         "Tr\u00e9vani"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310120585,
-    "wof:lastmodified":1537716364,
+    "wof:lastmodified":1564187856,
     "wof:name":"Trevani",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",

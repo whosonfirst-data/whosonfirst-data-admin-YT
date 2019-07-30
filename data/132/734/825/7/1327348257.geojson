@@ -25,6 +25,9 @@
     "iso:country":"YT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M'liha"
+    ],
     "name:und_x_variant":[
         "Moliha"
     ],
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1327348257,
-    "wof:lastmodified":1537716363,
+    "wof:lastmodified":1564187846,
     "wof:name":"Mliha",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
