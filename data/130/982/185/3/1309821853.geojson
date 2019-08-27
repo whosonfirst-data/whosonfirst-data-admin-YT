@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Mayotte",
     "iso:country":"YT",
+    "lbl:bbox":"45.17037,-12.86553,45.21037,-12.82553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Iloni"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309821853,
-    "wof:lastmodified":1564187857,
+    "wof:lastmodified":1566662633,
     "wof:name":"Iloni",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",

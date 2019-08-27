@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Mayotte",
     "iso:country":"YT",
+    "lbl:bbox":"45.1112,-12.85799,45.1512,-12.81799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Barakani"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260201577,
-    "wof:lastmodified":1564187855,
+    "wof:lastmodified":1566662630,
     "wof:name":"Barakani",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",
