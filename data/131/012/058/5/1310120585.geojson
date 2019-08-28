@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Indian/Mayotte",
     "iso:country":"YT",
+    "lbl:bbox":"45.17861,-12.75437,45.21861,-12.71437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Tr\u00e9vani"
-    ],
-    "name:und_x_variant":[
         "Tr\u00e9vani"
     ],
     "src:geom":"geonames",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1310120585,
-    "wof:lastmodified":1564187856,
+    "wof:lastmodified":1566662631,
     "wof:name":"Trevani",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",
