@@ -428,7 +428,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[],
     "wof:breaches":[],
-    "wof:capital_of":85671203,
+    "wof:capital_of":[
+        85671203
+    ],
     "wof:concordances":{
         "gn:id":921815,
         "gp:id":1365571,
@@ -447,7 +449,7 @@
         }
     ],
     "wof:id":1126019647,
-    "wof:lastmodified":1566662634,
+    "wof:lastmodified":1607390893,
     "wof:name":"Mamoudzou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
