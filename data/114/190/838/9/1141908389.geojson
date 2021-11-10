@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"45.2750036202,-12.7870890108,45.2750036202,-12.7870890108",
+    "geom:bbox":"45.275004,-12.787089,45.275004,-12.787089",
     "geom:latitude":-12.787089,
     "geom:longitude":45.275004,
     "iso:country":"YT",
@@ -35,6 +35,9 @@
     ],
     "name:bar_x_preferred":[
         "Dzaoudzi"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u0993\u0989\u09a6\u099c\u09bf"
     ],
     "name:bre_x_preferred":[
         "Dzaoudzi"
@@ -104,6 +107,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d6\u05d0\u05d5\u05d3\u05d6\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093e\u0909\u0921\u094d\u091c\u0940"
     ],
     "name:hrv_x_preferred":[
         "Dzaoudzi"
@@ -402,7 +408,7 @@
     },
     "wof:country":"YT",
     "wof:created":1499130891,
-    "wof:geomhash":"d888242fa11ee83266d22e3a00bb7924",
+    "wof:geomhash":"79f474cf548d52415cc96a351bd8554f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -413,7 +419,7 @@
         }
     ],
     "wof:id":1141908389,
-    "wof:lastmodified":1566662639,
+    "wof:lastmodified":1636501493,
     "wof:name":"Dzaoudzi",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",
@@ -423,10 +429,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.27500362018583,
-    -12.78708901077692,
-    45.27500362018583,
-    -12.78708901077692
+    45.275004,
+    -12.787089,
+    45.275004,
+    -12.787089
 ],
-  "geometry": {"coordinates":[45.27500362018583,-12.78708901077692],"type":"Point"}
+  "geometry": {"coordinates":[45.275004,-12.787089],"type":"Point"}
 }
