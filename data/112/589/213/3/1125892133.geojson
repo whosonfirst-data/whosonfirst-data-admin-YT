@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Bou\u00e9ni"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0646\u0649"
+    ],
     "name:ast_x_preferred":[
         "Bou\u00e9ni"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ces_x_preferred":[
         "Bou\u00e9ni"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u0435\u043d\u0438"
     ],
     "name:cos_x_preferred":[
         "Bou\u00e9ni"
@@ -157,6 +163,9 @@
     "name:lit_x_preferred":[
         "Bou\u00e9ni"
     ],
+    "name:lld_x_preferred":[
+        "Bou\u00e9ni"
+    ],
     "name:ltz_x_preferred":[
         "Bou\u00e9ni"
     ],
@@ -217,6 +226,9 @@
     "name:ron_x_preferred":[
         "Bou\u00e9ni"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u044d\u043d\u0438"
+    ],
     "name:scn_x_preferred":[
         "Bou\u00e9ni"
     ],
@@ -268,6 +280,9 @@
     "name:wol_x_preferred":[
         "Bou\u00e9ni"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u57c3\u5c3c"
+    ],
     "name:zul_x_preferred":[
         "Bou\u00e9ni"
     ],
@@ -310,7 +325,7 @@
         }
     ],
     "wof:id":1125892133,
-    "wof:lastmodified":1566662633,
+    "wof:lastmodified":1690927551,
     "wof:name":"Bou\u00e9ni",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",
