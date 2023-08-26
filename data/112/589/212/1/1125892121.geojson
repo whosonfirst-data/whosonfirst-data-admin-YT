@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Chiconi"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u064a\u0643\u0646\u0649"
+    ],
     "name:ast_x_preferred":[
         "Chiconi"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:ces_x_preferred":[
         "Chiconi"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0438\u043a\u043e\u043d\u0438"
     ],
     "name:cos_x_preferred":[
         "Chiconi"
@@ -160,6 +166,9 @@
     "name:lit_x_preferred":[
         "Chiconi"
     ],
+    "name:lld_x_preferred":[
+        "Chiconi"
+    ],
     "name:ltz_x_preferred":[
         "Chiconi"
     ],
@@ -220,6 +229,9 @@
     "name:ron_x_preferred":[
         "Chiconi"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043a\u043e\u043d\u0438"
+    ],
     "name:scn_x_preferred":[
         "Chiconi"
     ],
@@ -271,6 +283,9 @@
     "name:wol_x_preferred":[
         "Chiconi"
     ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u79d1\u5c3c"
+    ],
     "name:zul_x_preferred":[
         "Chiconi"
     ],
@@ -313,7 +328,7 @@
         }
     ],
     "wof:id":1125892121,
-    "wof:lastmodified":1566662633,
+    "wof:lastmodified":1690927551,
     "wof:name":"Chiconi",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",

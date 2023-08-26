@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Mamoudzou"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0645\u0648\u062f\u0632\u0648"
+    ],
     "name:ast_x_preferred":[
         "Mamoudzou"
     ],
@@ -48,6 +51,12 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043c\u0443\u0434\u0437\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043c\u0443\u0434\u0437\u0443"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09ae\u09c1\u09a6\u099c\u09c1"
     ],
     "name:bos_x_preferred":[
         "Mamoudzou"
@@ -69,6 +78,9 @@
     ],
     "name:che_x_preferred":[
         "\u041c\u0430\u043c\u0443\u0434\u0437\u0443"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u0430\u043c\u0443\u0446\u0443"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u0627\u0645\u06c6\u062f\u0632\u06c6"
@@ -208,6 +220,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10db\u10e3\u10ea\u10e3"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043c\u0443\u0446\u0443"
+    ],
     "name:kon_x_preferred":[
         "Mamoudzou"
     ],
@@ -229,6 +244,9 @@
     "name:lit_x_preferred":[
         "Mamudzu"
     ],
+    "name:lld_x_preferred":[
+        "Mamoudzou"
+    ],
     "name:ltz_x_preferred":[
         "Mamoudzou"
     ],
@@ -246,6 +264,9 @@
     ],
     "name:msa_x_preferred":[
         "Mamoudzou"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u0645\u0648\u062f\u0632\u0648"
     ],
     "name:nan_x_preferred":[
         "Mamoudzou"
@@ -273,6 +294,9 @@
     ],
     "name:oci_x_preferred":[
         "Mamodzo"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u043c\u0443\u0446\u0443"
     ],
     "name:pap_x_preferred":[
         "Mamoudzou"
@@ -310,6 +334,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043c\u0443\u0434\u0437\u0443"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u043c\u0443\u0446\u0443"
+    ],
     "name:scn_x_preferred":[
         "Mamoudzou"
     ],
@@ -326,6 +353,9 @@
         "Mamawdsaw"
     ],
     "name:spa_x_preferred":[
+        "Mamoudzou"
+    ],
+    "name:sqi_x_preferred":[
         "Mamoudzou"
     ],
     "name:srd_x_preferred":[
@@ -449,7 +479,7 @@
         }
     ],
     "wof:id":1126019647,
-    "wof:lastmodified":1607390893,
+    "wof:lastmodified":1690927552,
     "wof:name":"Mamoudzou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
